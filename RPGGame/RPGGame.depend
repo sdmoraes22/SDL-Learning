@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1431295990 source:/home/cmoraes/Documentos/ProjetosC++/SDL/RPGGame/FirstRPG.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+
+1432686126 source:/home/cmoraes/Documentos/ProjetosC++/RPG/RPGGame/FirstRPG.cpp
+	"main.h"
+
+1433802502 source:/home/cmoraes/Documentos/ProjetosC++/RPG/RPGGame/main.cpp
+	"main.h"
+
+1432774817 /home/cmoraes/Documentos/ProjetosC++/RPG/RPGGame/main.h
+	"sdl_setup.h"
+	"sprite.h"
+
+1432684073 /home/cmoraes/Documentos/ProjetosC++/RPG/RPGGame/sdl_setup.h
+	"sdl_principal.h"
+
+1431307426 /home/cmoraes/Documentos/ProjetosC++/RPG/RPGGame/sdl_principal.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<string>
+
+1432684159 source:/home/cmoraes/Documentos/ProjetosC++/RPG/RPGGame/sdl_setup.cpp
+	"sdl_setup.h"
+
+1432774051 /home/cmoraes/Documentos/ProjetosC++/RPG/RPGGame/sprite.h
+	"sdl_setup.h"
+
+1432774071 source:/home/cmoraes/Documentos/ProjetosC++/RPG/RPGGame/sprite.cpp
+	"sprite.h"
+
+1467852770 source:/home/coliveira/Documentos/Programação/ProjetosC++/RPG/RPGGame/FirstRPG.cpp
+	"main.h"
+
+1467847875 /home/coliveira/Documentos/Programação/ProjetosC++/RPG/RPGGame/main.h
+	"sdl_setup.h"
+	"sprite.h"
+
+1467554494 /home/coliveira/Documentos/Programação/ProjetosC++/RPG/RPGGame/sdl_setup.h
+	"sdl_principal.h"
+
+1464643244 /home/coliveira/Documentos/Programação/ProjetosC++/RPG/RPGGame/sdl_principal.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<string>
+
+1509631515 /home/coliveira/Documentos/Programação/ProjetosC++/RPG/RPGGame/sprite.h
+	"sdl_setup.h"
+
+1499470893 source:/home/coliveira/Documentos/Programação/ProjetosC++/RPG/RPGGame/main.cpp
+	"main.h"
+
+1467554365 source:/home/coliveira/Documentos/Programação/ProjetosC++/RPG/RPGGame/sdl_setup.cpp
+	"sdl_setup.h"
+
+1467892426 source:/home/coliveira/Documentos/Programação/ProjetosC++/RPG/RPGGame/sprite.cpp
+	"sprite.h"
+
